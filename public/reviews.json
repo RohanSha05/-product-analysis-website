@@ -1,0 +1,38 @@
+[
+    {
+        "id": "124",
+        "name": "Shakib Khan",
+        "review": "I love the ease of driving, it is a very smooth experience. Plus, the technology that this vehicle possess, everyone that has been in my Audi had fallen in love with it as much as I have.",
+        "rating": "5 out of 5"
+    },
+    {
+        "id": "125",
+        "name": "Rakib Khan",
+        "review": "Rides so smooth and fast. Sometimes I don't even realize how fast I'm going. Just loving my new ride.",
+        "rating": "4.9 out of 5"
+    },
+    {
+        "id": "126",
+        "name": "Mahtib Khan",
+        "review": "Spectacular experience! Im in love with my Audi! Customer service was phenominal. Best car I've ever driven this far. It's a great family ride and I am thankful for my entire experience.",
+        "rating": "5 out of 5"
+    },
+    {
+        "id": "127",
+        "name": "Nakib Khan",
+        "review": "Smooth quiet ride, good handling, latest technology, good quality of everything the only complaint is about the emergency connection (I needed to contact the dealer and it seems to be a recognized problem)",
+        "rating": "4 out of 5"
+    },
+    {
+        "id": "128",
+        "name": "Akib Khan",
+        "review": "The exterior and interior styling and quality is exceptional. The the MMI touch screen is easy to use and intuitive. The car performance is outstanding.",
+        "rating": "5 out of 5"
+    },
+    {
+        "id": "129",
+        "name": "Chakib Khan",
+        "review": "Roomy and great safety features. The Audi Pre-Sense will let you know there's a potential hazard in front of you (a braking car) if you haven't put the brakes on already.",
+        "rating": "5 out of 5"
+    }
+]
