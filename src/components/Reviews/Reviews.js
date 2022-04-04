@@ -6,11 +6,12 @@ const Reviews = () => {
     const [reviews, setReviews] = useReviews();
     return (
         <div>
-
-            <h1>I am Review {reviews.length}</h1>
-            {
-                reviews.map(review => <Review review={review}></Review>)
-            }
+            <h2 className='text-5xl text-amber-600 underline'>Our Customers Words</h2>
+            <div className='grid grid-cols-3'>
+                {
+                    reviews.map(review => <Review review={review}></Review>)
+                }
+            </div>
         </div>
     );
 };
