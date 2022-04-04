@@ -4,41 +4,47 @@
         "name": "Shakib Khan",
         "review": "I love the ease of driving, it is a very smooth experience. Plus, the technology that this vehicle possess, everyone that has been in my Audi had fallen in love with it as much as I have.",
         "rating": "5 out of 5",
-        "img": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "img": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "model": "Toyota Avalon"
     },
     {
         "id": "125",
         "name": "Rakib Khan",
         "review": "Rides so smooth and fast. Sometimes I don't even realize how fast I'm going. Just loving my new ride.",
         "rating": "4.9 out of 5",
-        "img": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "img": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "model": "Volkswagen ID.4"
     },
     {
         "id": "126",
         "name": "Mahtib Khan",
         "review": "Spectacular experience! Im in love with my Audi! Customer service was phenominal. Best car I've ever driven this far. It's a great family ride and I am thankful for my entire experience.",
         "rating": "5 out of 5",
-        "img": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        "img": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "model": "Chevrolet Bolt EV"
     },
     {
         "id": "127",
         "name": "Nakib Khan",
         "review": "Smooth quiet ride, good handling, latest technology, good quality of everything the only complaint is about the emergency connection (I needed to contact the dealer and it seems to be a recognized problem)",
         "rating": "4 out of 5",
-        "img": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        "img": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "model": "Kia Niro EV"
     },
     {
         "id": "128",
         "name": "Akib Khan",
         "review": "The exterior and interior styling and quality is exceptional. The the MMI touch screen is easy to use and intuitive. The car performance is outstanding.",
         "rating": "5 out of 5",
-        "img": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        "img": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "model": "Chevrolet Corvette"
     },
     {
         "id": "129",
         "name": "Chakib Khan",
         "review": "Roomy and great safety features. The Audi Pre-Sense will let you know there's a potential hazard in front of you (a braking car) if you haven't put the brakes on already.",
         "rating": "5 out of 5",
-        "img": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        "img": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "model": "Hyundai Tucson"
     }
 ]
