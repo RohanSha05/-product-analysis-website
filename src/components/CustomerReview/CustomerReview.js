@@ -11,7 +11,7 @@ const CustomerReview = () => {
             <h1 className='text-2xl'>Customer Review({slicedReviews.length})</h1>
             <div className='grid grid-cols-3'>
                 {
-                    slicedReviews.map(slicedReview => <CustomerReviews slicedReview={slicedReview}></CustomerReviews>)
+                    slicedReviews.map(slicedReview => <CustomerReviews key={slicedReview.id} slicedReview={slicedReview}></CustomerReviews>)
                 }
             </div>
         </div>
