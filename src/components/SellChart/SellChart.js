@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 
 
 const SellChart = () => {
@@ -10,15 +10,15 @@ const SellChart = () => {
             .then(res => res.json())
             .then(data => setData(data));
     }, [])
-    console.log(data)
 
     return (
 
-        <LineChart width={300} height={300} data={data}>
-            <Line type="monotone" dataKey='sell' stroke="#8884d8"></Line>
+        <LineChart width={600} height={320} data={data}>
+            <Line type="monotone" dataKey='sell' stroke="#8884d8" activeDot={{ r: 8 }}></Line>
             <CartesianGrid stroke="#ccc" />
             <XAxis dataKey={'month'}></XAxis>
             <YAxis></YAxis>
+            <Legend></Legend>
             <Tooltip></Tooltip>
         </LineChart>
     );
